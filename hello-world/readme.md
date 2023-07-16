@@ -1,10 +1,10 @@
-> 本插件开发文档翻译于Google官方文档[Chrome Extension development basics - Chrome Developers](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/)
+> 本扩展开发文档翻译于Google官方文档[Chrome Extension development basics - Chrome Developers](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/)
 
 
 
-# 一、插件开发
+# 一、扩展开发
 
-**hello-world**插件开发的具体流程如下：
+**hello-world**扩展开发的具体流程如下：
 
 1. 创建目录`hello-world`， 存放源代码
 
@@ -37,7 +37,7 @@
 
    现在，当单击扩展的操作图标（工具栏图标）时，扩展会显示一个弹出窗口。让我们通过在本地加载它来Chrome测试它。确保所有文件都已保存。
 
-> [插件开发源码链接](https://github.com/idealzouhu/chrome-extension-example/tree/main/hello-world)
+> [扩展开发源码链接](https://github.com/idealzouhu/chrome-extension-example/tree/main/hello-world)
 
 
 
@@ -53,7 +53,7 @@
 
 
 
-# 三、插件使用结果
+# 三、扩展使用结果
 
 单击扩展程序的操作图标（工具栏图标）, 会看到一个弹出窗口 。 弹出窗口的内容为`hello. html`文件里面的内容。
 
