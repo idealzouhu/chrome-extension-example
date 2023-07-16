@@ -5,7 +5,11 @@
 
 [focus-mode](./focus-mode)：    通过这个项目，可以学习到**单击extension action后在当前页面上运行代码。**
 
-tabs-manager： 通过这个项目，可以学习到**创建一个管理浏览器选项卡的弹出窗口。**
+[tabs-manager](https://developer.chrome.com/docs/extensions/mv3/getstarted/tut-tabs-manager/)： 通过这个项目，可以学习到**创建一个管理浏览器选项卡的弹出窗口。**
+
+
+
+
 
 
 

@@ -12,6 +12,8 @@
 - How to use match patterns.
 - Extension permissions.
 
+> [插件开发源码链接](https://github.com/idealzouhu/chrome-extension-example/tree/main/reading-time)
+
 
 
 # 二、Build the extension
