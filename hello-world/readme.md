@@ -37,7 +37,7 @@
 
    现在，当单击扩展的操作图标（工具栏图标）时，扩展会显示一个弹出窗口。让我们通过在本地加载它来Chrome测试它。确保所有文件都已保存。
 
-> 插件开发源码链接
+> [插件开发源码链接](https://github.com/idealzouhu/chrome-extension-example/tree/main/hello-world)
 
 
 
